@@ -65,5 +65,6 @@ Handle the following custom conversion specifier:
 All the above options work well together.
 
 ## Authors
-Nicholas Naidu - [naidunicholas@gmail.com](https://github.com/nicholasnaidu)
-Simangele Tutubala - [simangeletutubala@gmail.com](https://github.com/Simangeletutubala)
+Nicholas Naidu - [naidunicholas@gmail.com]
+
+Simangele Tutubala - [simangeletutubala@gmail.com]
